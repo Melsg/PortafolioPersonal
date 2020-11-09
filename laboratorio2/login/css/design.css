@@ -1,0 +1,81 @@
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+}
+.cajaLogin{
+  width: 600px;
+  height: 400px;
+  background-color: #34495e;
+  margin: auto;
+  margin-top: 130px;
+}
+.imglogin{
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  padding-top: 45px;
+}
+.imglogin img{
+  width: 75px;
+  margin: auto;
+}
+.containerCorreo{
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+.containerCorreo label{
+  font-size: 20px;
+  margin: auto;
+  color: #ffffff ;
+  font-family: Arial;
+  margin-bottom: 5px;
+}
+.containerCorreo input{
+  width: 400px;
+  height: 35px;
+  margin: auto;
+  background-color: #ffffff;
+  padding-left: 10px;
+}
+.containerPassword{
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+.containerPassword label{
+  font-size: 20px;
+  color: #ffffff ;
+  margin: auto;
+  font-family: Arial;
+  margin-bottom: 5px;
+}
+.containerPassword input{
+  width: 400px;
+  height: 35px;
+  margin: auto;
+  background-color: #ffffff;
+  padding-left: 10px;
+}
+.containerBoton{
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  margin-top: 25px;
+}
+.sesion{
+  width: 405px;
+  height: 35px;
+  margin: auto;
+  color: #ffffff;
+  background-color: #4caf50;
+  font-family: Arial;
+  border-color: #4caf50;
+}

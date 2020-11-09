@@ -1,0 +1,38 @@
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+}
+.contenedor{
+  width: 600px;
+  height: 400px;
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  margin-top: 145px;
+  border: 1px solid #707070;
+}
+.columna_botones{
+  width: 150px;
+  height: auto;
+  display:flex;
+  flex-direction: column;
+  margin-top: 40px;
+}
+.columna_botones button{
+  width: 120px;
+  height: 40px;
+  border-radius: 8px;
+  background-color: #7EE2AD;
+  margin-left: 15px;
+  margin-top: 11px;
+  color: #707070;
+  font-family: Arial;
+}
+.cuadro{
+  width: 400px;
+  height: 300px;
+  background-color: #707070;
+  margin-top: 50px;
+  margin-left: 10px;
+}
